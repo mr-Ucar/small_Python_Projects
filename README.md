@@ -22,3 +22,5 @@ BTW, in these kinds of promotion emails, there is a notion of _UTM_ which means:
 _Find the Audio files which are mp3 formatted, in the Source code of the Website. You need to press *"Oynat"*, _Play_ to see the mp3 files, copy that URL and the script will download the audios by one by._
 
 ![image](https://github.com/mr-Ucar/2023-2024/assets/116120748/e2ade8d9-7d25-4830-9d55-affe31283205)
+
+![image](https://github.com/mr-Ucar/2023-2024/assets/116120748/97c456a0-c903-49ce-8151-2a5e899d2309)
